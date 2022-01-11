@@ -1,5 +1,3 @@
-print("Hello world")
-print("")class Solution:
     def precedence(self, x):
         if x == "^":
             return 3
